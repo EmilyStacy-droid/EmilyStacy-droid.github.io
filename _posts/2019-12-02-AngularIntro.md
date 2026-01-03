@@ -232,10 +232,12 @@ export class PipesExampleComponent implements OnInit {
 }
 ```
 ***In template***
-```
+
+{% raw %}
 <h6>Today's Date Raw: {{todaysDate}}</h6>
 <h6>Today's Date Default: {{todaysDate | date}}</h6>
-```
+{% endraw %}
+
 ## Angular Decorator
 https://docs.angularjs.org/guide/decorators
 ## Angular Services
