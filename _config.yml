@@ -6,6 +6,3 @@ footer-links:
   github: EmilyStacy-droid
   linkedin: jinglanstacy # Add your actual username here
   email: emilystacy2020@gmail.com
-
-# This tells Jekyll to use a clean theme and ignore the blog stuff
-theme: jekyll-theme-minimal
