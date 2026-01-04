@@ -1,0 +1,8 @@
+
+{
+  "name": "Emily Stacy Portfolio",
+  "description": "Consolidated Spring-themed React portfolio for Emily Stacy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
