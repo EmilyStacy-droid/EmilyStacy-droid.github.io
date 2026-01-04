@@ -1,7 +1,6 @@
-
 {
   "name": "Emily Stacy Portfolio",
-  "description": "Consolidated Spring-themed React portfolio for Emily Stacy.",
+  "description": "Multi-page consolidated portfolio with integrated AI Assistant.",
   "requestFramePermissions": [
     "microphone"
   ]
